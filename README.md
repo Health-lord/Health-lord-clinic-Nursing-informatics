@@ -11,10 +11,18 @@ This data-driven project aims to provide insights that would transform patient c
 - Data visualization
 - Key takeaways
 - Conclusion
+  
+## Data Sources
+---
+Google form
 
-  ## Data Sources
-  ---
-  Google form
+## Tools utilized
 
-  ## Tools utilized
-  MS Excel
+- Ms. Excel was used to collate the dataset: [**Excel**](https://www.microsoft.com/en-us/microsoft-365/excel)
+- Power BI was used for data cleaning, transforming and visualization: [**Power BI**](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+
+## Data visualization
+
+
+
+
