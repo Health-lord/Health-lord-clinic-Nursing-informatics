@@ -7,10 +7,8 @@ This data-driven project aims to provide insights that would transform patient c
 
 - Data Sources
 - Tools utilized
-- Data analysis
 - Data visualization
-- Key takeaways
-- Conclusion
+- Conclusion/Recommendation
   
 ## Data Sources
 ---
@@ -23,6 +21,18 @@ Google form
 
 ## Data visualization
 
+![](chart.png)  ![](chart(1).png) ![](chart(2).png)  ![](chart(3).png)
+
+## conclussion/Recommendation
+
+This experience demonstrates the impact of data analysis on patient care. By leveraging on this  data insights Armed with this knowledge, our healthcare team at Health lord clinic can develop targeted interventions and monitoring strategies. We:
+
+- Implemented personalized care plans for high-risk patients
+- Enhanced patient education and discharge protocols
+- Established regular follow-up appointments and medication management
+- Improve patient safety and outcomes
+- Enhance the quality of care
+- Reduce healthcare costs
 
 
 
